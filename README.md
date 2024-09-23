@@ -9,3 +9,6 @@ Bla bla bla.
 ### Encabezado de tipo h3
 
 Bla
+
+#### Encabezado de tipo h4
+linea
